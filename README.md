@@ -14,4 +14,4 @@ ID канала для api: -1002194810677
 
 ## Api для отправки сообщений
 
-localhost/api/send/{chatId}
+/api/send/{chatId}
